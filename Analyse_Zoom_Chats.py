@@ -13,6 +13,7 @@ those that contain our course name, assuming you set up your reoccuring
 Zoom meeting with a consistent name. See the "req_string" variable.
 
 Created on Fri Sep  4 08:41:27 2020
+GNU GENERAL PUBLIC LICENSE
 @author: Christopher V. Kelly, cvkelly@wayne.edu
 """
 # %%
