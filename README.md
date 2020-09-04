@@ -16,13 +16,19 @@ Included here are the chat threads from my first two classes this semester
 (with names changed to protect the innocent) and the output .csv file 
 created by this code. 
 
-I welcome feedback.
-
 Python script: Analyse_Zoom_Chats.py
-Input files are 'meeting_saved_chat.txt' within the subfolders
+
+Input files are 'meeting_saved_chat.txt' within the subfolders of the Zip file
+
 Output file: Biological Physics Chat Participation Data.csv
 
 Created on Fri Sep  4 08:41:27 2020
-@author: Christopher V. Kelly, cvkelly@wayne.edu, 
-@C_V_Kelly on Twitter,
+
+@author: Christopher V. Kelly, cvkelly@wayne.edu
+
+@C_V_Kelly on Twitter
+
 www.cvkelly.com
+
+I welcome feedback.
+
