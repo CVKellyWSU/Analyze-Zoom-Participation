@@ -23,4 +23,6 @@ Input files are 'meeting_saved_chat.txt' within the subfolders
 Output file: Biological Physics Chat Participation Data.csv
 
 Created on Fri Sep  4 08:41:27 2020
-@author: Christopher V. Kelly, cvkelly@wayne.edu
+@author: Christopher V. Kelly, cvkelly@wayne.edu, 
+@C_V_Kelly on Twitter,
+www.cvkelly.com
